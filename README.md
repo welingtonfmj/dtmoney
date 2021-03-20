@@ -3,9 +3,6 @@
 Aplicação em construção utilizando create react-app, para o Chapter II do Ignite ReactJS
 
 
-🚧 Em construção... 🚧
-
-
 #### 🛠 Tecnologias
 
 As seguintes ferramentas estão sendo utilizadas na construção do projeto:
